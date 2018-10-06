@@ -1,4 +1,3 @@
-# week-1
 # App Idea Brainstorming
 
 ## Favorite Existing Apps - List
